@@ -1,17 +1,15 @@
 // Assignment code here
 
+// check length of characters from user input
+var passwordLength;
+//confirms if user wants lowercase letters
+var confirmLower;
+//confirms if user wants uppercase letters
+var confirmUpper;
+var confirmNumber;
+var confirmSpecial;
+var userChoices;
+
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
-
-// Write password to the #password input
-function writePassword() {
-  var password = generatePassword();
-  var passwordText = document.querySelector("#password");
-
-  passwordText.value = password;
-
-}
-
-// Add event listener to generate button
-generateBtn.addEventListener("click", writePassword);
