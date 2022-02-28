@@ -1,1 +1,6 @@
 # Password Generator Starter Code
+**screenshot of the app**
+
+![Screenshot 2022-02-28 141655](https://user-images.githubusercontent.com/98116215/155974483-650db8d0-7a99-4e5b-823b-af8012ce580b.png)
+
+Website url:-   https://jaylee0119.github.io/Password-Generator/
